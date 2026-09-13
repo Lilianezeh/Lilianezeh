@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0B4F8A&height=180&section=header&text=Lilian%20Ezeh&fontSize=48&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Fullstack%20Engineer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=60&descSize=18&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0B4F8A&height=180&section=header&text=Lilian%20Ezeh&fontSize=48&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Fullstack%20Engineer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=60&descSize=18&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Fullstack+Engineer;Python+%7C+FastAPI+%7C+JavaScript+%7C+TypeScript;AWS+%7C+Docker+%7C+Kubernetes;Building%2C+Deploying+%26+Scaling+Applications" alt="Typing SVG" />
