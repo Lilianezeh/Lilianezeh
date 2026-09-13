@@ -22,6 +22,7 @@
 
 ---
 
+```markdown
 ## 🧠 Who am I?
 
 ```python
@@ -62,8 +63,8 @@ class LilianEzeh:
     ]
 
     philosophy = "Build it. Deploy it. Improve it."
-⚡ Tech Stack
-<div align="center">
+##⚡ Tech Stack
+<div align="center"> ... ```
 🐍 Backend & APIs
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,postman" />
 🌐 Frontend
