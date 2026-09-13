@@ -1,230 +1,213 @@
-<h1 align="center"><strong>Lilian Ezeh</strong></h1>
+<!-- HEADER WAVE -->
 
-<p align="center">
-  <strong>Cloud & DevOps Engineer | Fullstack Engineer</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Lilian%20Ezeh&fontSize=58&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Fullstack%20Engineer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=60&descSize=18&fontColor=ffffff" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Fullstack+Engineer;Python+%7C+FastAPI+%7C+JavaScript+%7C+TypeScript;AWS+%7C+Docker+%7C+Kubernetes;Building%2C+Deploying+%26+Scaling+Applications" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lilianezeh&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-  <a href="https://github.com/Lilianezeh?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lilianezeh?label=Followers&style=flat&color=2E9EF7" alt="GitHub followers" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+and+deploying+modern+applications;Cloud+infrastructure+%7C+DevOps+%7C+Fullstack;Python+%7C+FastAPI+%7C+JavaScript+%7C+TypeScript;AWS+%7C+Docker+%7C+Kubernetes;From+code+to+cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-</p>
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Lilianezeh?label=Followers\&style=flat-square\&color=2E9EF7\&labelColor=0F2027\&logo=github)](https://github.com/Lilianezeh)
+[![Profile Views](https://komarev.com/ghpvc/?username=Lilianezeh\&label=Profile+Views\&color=2E9EF7\&style=flat-square)](https://github.com/Lilianezeh)
+![GitHub Stars](https://img.shields.io/github/stars/Lilianezeh?style=flat-square\&color=2E9EF7\&labelColor=0F2027\&logo=github\&label=Stars)
+
+</div>
 
 ---
 
-## 👩🏽‍💻 About Me
+## 🧠 Who am I?
 
-I'm **Lilian Ezeh**, a Cloud & DevOps Engineer and Fullstack Engineer passionate about building, deploying, and improving modern applications.
+```python
+class LilianEzeh:
+    name = "Lilian Ezeh"
+    location = "Nigeria 🇳🇬"
 
-My background in Cloud and DevOps has given me hands-on experience with cloud infrastructure, containerization, Kubernetes, CI/CD, Infrastructure as Code, and application deployment.
+    roles = [
+        "Cloud & DevOps Engineer",
+        "Fullstack Engineer"
+    ]
 
-I also build backend services and web applications, allowing me to understand the complete journey of an application — from **development to deployment and production**.
+    core_focus = [
+        "Cloud Infrastructure",
+        "DevOps & Automation",
+        "Backend Development",
+        "Fullstack Engineering"
+    ]
 
-* ☁️ Cloud & DevOps Engineering
-* 🌐 Fullstack Engineering
-* 🐍 Python & FastAPI
-* ⚛️ React & Next.js
-* ☁️ AWS Cloud
-* 🐳 Docker & Kubernetes
-* 🏗️ Infrastructure as Code with Terraform
-* 🔄 CI/CD automation with GitHub Actions
-* 📊 Monitoring, logging & observability
-* 📍 Nigeria
-* 📫 **Email:** [lilianezichi@gmail.com](mailto:lilianezichi@gmail.com)
+    stack = [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+    ]
 
----
+    currently_building = [
+        "Fullstack applications",
+        "REST APIs",
+        "Cloud-native deployments",
+        "CI/CD pipelines"
+    ]
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
-</p>
-
-### ⚙️ Backend & APIs
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
-</p>
-
-### ☁️ Cloud
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
-  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="Amazon EKS"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS"/>
-  <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonecr&logoColor=white" alt="Amazon ECR"/>
-  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="Route 53"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
-</p>
-
-### 🚀 DevOps & Infrastructure
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</p>
-
-### 🧰 Tools & Environment
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-</p>
+    philosophy = "Build it. Deploy it. Improve it."
+```
 
 ---
 
-## 🚀 What I Do
+## ⚡ Tech Stack
 
-I enjoy working across the application lifecycle — from writing application code to deploying and managing it in the cloud.
+<div align="center">
 
-### ☁️ Cloud & DevOps
+### 🐍 Backend & APIs
 
-* Designing and deploying cloud infrastructure on AWS
-* Containerizing applications with Docker
-* Orchestrating workloads with Kubernetes
-* Building CI/CD pipelines
-* Managing infrastructure with Terraform
-* Implementing GitOps workflows with Argo CD
-* Working with monitoring, logging, and observability tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
 
-### 🌐 Fullstack Engineering
+### 🌐 Frontend
 
-* Building responsive web interfaces
-* Developing backend APIs with FastAPI
-* Working with React and Next.js
-* Designing and working with relational databases
-* Connecting frontend applications to backend services
-* Building applications with deployment and scalability in mind
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge\&logo=amazoneks\&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge\&logo=amazonrds\&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge\&logo=amazonecr\&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge\&logo=amazonroute53\&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge\&logo=amazoncloudwatch\&logoColor=white)
+
+### 🐳 DevOps & Automation
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
+
+### 🛠️ Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Currently Working On
 
-### 🐾 Spring PetClinic — Cloud & DevOps Project
+* 🌐 Building **fullstack web applications** with React, Next.js and TypeScript
+* ⚙️ Developing backend services and REST APIs with **Python & FastAPI**
+* ☁️ Applying **AWS cloud architecture** to real-world applications
+* 🐳 Containerizing applications with **Docker**
+* ☸️ Deploying and managing workloads with **Kubernetes**
+* 🔄 Building **CI/CD pipelines** with GitHub Actions
+* 🏗️ Managing infrastructure with **Terraform**
+* 🚀 Exploring better ways to move applications from **development to production**
 
-A microservices-based application deployed through a complete DevOps workflow.
+---
+
+## 💼 Featured Projects
+
+### 🐾 Spring PetClinic — Cloud & DevOps
+
+A microservices-based application deployed through a complete cloud-native DevOps workflow.
 
 **Technologies:** AWS • EKS • Docker • Kubernetes • Terraform • GitHub Actions • Argo CD • Helm • PostgreSQL • Prometheus • Grafana • OpenTelemetry
 
-**Focus:** Containerization • CI/CD • Kubernetes • Infrastructure as Code • GitOps • Monitoring & Observability
+**Focus:** Cloud Deployment • CI/CD • Kubernetes • Infrastructure as Code • GitOps • Monitoring & Observability
 
 ---
 
 ### 📝 Learning Notes API
 
-A FastAPI-based learning tracker designed for creating, managing, and organizing personal learning notes.
+A backend project built with FastAPI for managing personal learning notes and tracking knowledge over time.
 
 **Technologies:** Python • FastAPI • Pydantic • PostgreSQL • REST APIs
 
-**Focus:** API Development • CRUD • Data Validation • Backend Architecture
+**Focus:** API Development • CRUD • Validation • Backend Architecture
 
 ---
 
-### 🌐 Fullstack Web Projects
+### 🌐 Fullstack Applications
 
-Building modern web applications that combine responsive frontend interfaces with backend APIs.
+Building modern web applications that connect responsive frontend interfaces with backend services and APIs.
 
-**Technologies:** React • Next.js • JavaScript • TypeScript • Tailwind CSS • FastAPI
+**Technologies:** React • Next.js • TypeScript • Tailwind CSS • FastAPI
 
-**Focus:** Fullstack Development • API Integration • Responsive UI • Application Deployment
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lilianezeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lilian's GitHub Stats" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianezeh&layout=compact&theme=tokyonight&hide_border=true" alt="Lilian's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lilianezeh&theme=tokyonight&hide_border=true" alt="Lilian's GitHub Streak" />
-</p>
+**Focus:** Fullstack Development • API Integration • Responsive UI • Deployment
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lilianezeh&theme=react-dark&hide_border=true&area=true" alt="Lilian's GitHub Activity Graph" width="100%" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lilianezeh&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0F6B78&icon_color=0F6B78" alt="Lilian's GitHub Stats" />
 
-## 🎓 Certifications & Learning
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianezeh&layout=compact&hide_border=true&theme=default&title_color=0F6B78" alt="Lilian's Top Languages" />
 
-* ☁️ Cloud & DevOps Engineering
-* ☁️ AltSchool Africa — Cloud Engineering
-* 🚀 DevOps Micro Internship — The CloudAdvisory
-* 💻 Fullstack Engineering
-* 🐍 Backend Development with FastAPI
-* ☁️ AWS Cloud & Infrastructure
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Snake
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lilian-ezeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<div align="center">
 
-  <a href="mailto:lilianezichi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake.svg" />
+</picture>
 
-  <a href="https://github.com/Lilianezeh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider">
-</p>
+## 💡 My Approach
 
-<p align="center">
-  <strong>Building with code. Deploying with confidence. Growing through every project.</strong>
-</p>
+> **Build with purpose. Deploy with confidence. Keep learning.**
+
+I believe good engineering is more than writing code. It's about understanding how systems work, building reliable solutions, and continuously improving the way applications are developed and delivered.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lilianezeh-181717?style=for-the-badge\&logo=github)](https://github.com/Lilianezeh)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lilian_Ezeh-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lilian-ezeh)
+
+[![Email](https://img.shields.io/badge/Email-lilianezichi%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lilianezichi@gmail.com)
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
