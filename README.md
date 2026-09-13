@@ -22,7 +22,6 @@
 
 ---
 
-```markdown
 ## 🧠 Who am I?
 
 ```python
@@ -63,68 +62,139 @@ class LilianEzeh:
     ]
 
     philosophy = "Build it. Deploy it. Improve it."
-##⚡ Tech Stack
-<div align="center"> ... ```
-🐍 Backend & APIs
+```
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 🐍 Backend & APIs
+
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,postman" />
-🌐 Frontend
+
+### 🌐 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-☁️ Cloud & Infrastructure
+
+### ☁️ Cloud & Infrastructure
+
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
-🔄 DevOps & Automation
+
+### 🔄 DevOps & Automation
+
 <img src="https://skillicons.dev/icons?i=githubactions,ansible,git,github" />
-🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=linux,vscode,maven,bash" /> </div>
-🚀 Currently Working On
-🌐 Building fullstack web applications with React, Next.js and TypeScript
-⚙️ Developing backend services and REST APIs with Python & FastAPI
-☁️ Applying AWS cloud architecture to real-world applications
-🐳 Containerizing applications with Docker
-☸️ Deploying and managing workloads with Kubernetes
-🔄 Building CI/CD pipelines with GitHub Actions
-🏗️ Managing infrastructure with Terraform
-🚀 Moving applications from development to production
-💼 Featured Projects
-🐾 Spring PetClinic — Cloud & DevOps
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=linux,vscode,maven,bash" />
+
+</div>
+
+---
+
+## 🚀 Currently Working On
+
+* 🌐 Building fullstack web applications with React, Next.js and TypeScript
+* ⚙️ Developing backend services and REST APIs with Python & FastAPI
+* ☁️ Applying AWS cloud architecture to real-world applications
+* 🐳 Containerizing applications with Docker
+* ☸️ Deploying and managing workloads with Kubernetes
+* 🔄 Building CI/CD pipelines with GitHub Actions
+* 🏗️ Managing infrastructure with Terraform
+* 🚀 Moving applications from development to production
+
+---
+
+## 💼 Featured Projects
+
+### 🐾 Spring PetClinic — Cloud & DevOps
 
 A microservices-based application deployed through a complete cloud-native DevOps workflow.
 
-Technologies:
+**Technologies:**
 AWS • EKS • Docker • Kubernetes • Terraform • GitHub Actions • Argo CD • Helm • PostgreSQL • Prometheus • Grafana • OpenTelemetry
 
-Focus:
+**Focus:**
 Cloud Deployment • CI/CD • Kubernetes • Infrastructure as Code • GitOps • Monitoring & Observability
 
-📝 Learning Notes API
+---
+
+### 📝 Learning Notes API
 
 A backend project built with FastAPI for managing personal learning notes and tracking knowledge over time.
 
-Technologies:
+**Technologies:**
 Python • FastAPI • Pydantic • PostgreSQL • REST APIs
 
-Focus:
+**Focus:**
 API Development • CRUD • Validation • Backend Architecture
 
-🌐 Fullstack Applications
+---
+
+### 🌐 Fullstack Applications
 
 Building modern web applications that connect responsive frontend interfaces with backend services and APIs.
 
-Technologies:
+**Technologies:**
 React • Next.js • TypeScript • Tailwind CSS • FastAPI
 
-Focus:
+**Focus:**
 Fullstack Development • API Integration • Responsive UI • Deployment
 
-📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lilianezeh&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0F6B78&icon_color=0F6B78" alt="Lilian's GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianezeh&layout=compact&hide_border=true&theme=default&title_color=0F6B78" alt="Lilian's Top Languages" /> </div>
-🐍 Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake.svg" /> <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake.svg" /> </picture> </div>
-💡 My Approach
+---
 
-Build with purpose. Deploy with confidence. Keep learning.
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lilianezeh&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0F6B78&icon_color=0F6B78" alt="Lilian's GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianezeh&layout=compact&hide_border=true&theme=default&title_color=0F6B78" alt="Lilian's Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Lilianezeh/Lilianezeh/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💡 My Approach
+
+**Build with purpose. Deploy with confidence. Keep learning.**
 
 I believe good engineering is more than writing code. It's about understanding how systems work, building reliable solutions, and continuously improving the way applications are developed and delivered.
 
-📫 Let's Connect
-<div align="center"> <a href="https://github.com/Lilianezeh"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/lilian-ezeh"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:lilianezichi@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
-<!-- FOOTER WAVE --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" /> ```
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Lilianezeh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/lilian-ezeh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:lilianezichi@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<!-- FOOTER WAVE -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
